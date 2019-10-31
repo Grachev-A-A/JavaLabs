@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="ru.mirea.ikbo1218.grachev.Practice4">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="110"/>
+    </constraints>
+    <properties>
+      <minimumSize width="250" height="50"/>
+      <preferredSize width="250" height="50"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="4c8b6" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="North"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="1936f" class="javax.swing.JButton" binding="ACMilanButton" default-binding="true">
+            <constraints/>
+            <properties>
+              <text value="AC Milan"/>
+            </properties>
+          </component>
+          <component id="b5fe9" class="javax.swing.JButton" binding="realMadridButton" default-binding="true">
+            <constraints/>
+            <properties>
+              <text value="Real Madrid"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <component id="55f04" class="javax.swing.JLabel" binding="lastScoreLabel">
+        <constraints border-constraint="West"/>
+        <properties>
+          <text value="Last Scorer: N/A"/>
+        </properties>
+      </component>
+      <component id="232cf" class="javax.swing.JLabel" binding="resLabel">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <horizontalAlignment value="0"/>
+          <text value="Result: 0 X 0"/>
+        </properties>
+      </component>
+      <component id="27085" class="javax.swing.JLabel" binding="winLabel">
+        <constraints border-constraint="East"/>
+        <properties>
+          <text value="Winner: DRAW"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
