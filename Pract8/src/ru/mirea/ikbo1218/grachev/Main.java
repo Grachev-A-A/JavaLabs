@@ -40,6 +40,15 @@ public class Main {
         System.out.println(bwl.getCapacity());
 
         System.out.println();
+        bwl = new BoundedWaitList<String>(al);
+        System.out.println(bwl.getCapacity());
+        try{
+            bwl.add("bar2");
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+        System.out.println();
 
         UnfairWaitList<Integer> uwl = new UnfairWaitList<>();
         uwl.add(1);

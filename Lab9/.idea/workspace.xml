@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a6944ba-60b7-409c-8184-061175f241c2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T3XB2jak6qSzfc52GVZTQlVFxW" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Exception2 (2)">
+    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex1.Exception1" />
+      <module name="Lab9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex3.Exception2" />
+      <module name="Lab9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex4.Exception2" />
+      <module name="Lab9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex2.Exception2" />
+      <module name="Lab9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowsDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex8.ThrowsDemo" />
+      <module name="Lab9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.ex8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exception2 (2)" />
+        <item itemvalue="Application.Exception2 (1)" />
+        <item itemvalue="Application.Exception2" />
+        <item itemvalue="Application.Exception1" />
+        <item itemvalue="Application.ThrowsDemo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a6944ba-60b7-409c-8184-061175f241c2" name="Default Changelist" comment="" />
+      <created>1572689613061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572689613061</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a17782b-3244-430c-b830-16fb764066fe" name="Default Changelist" comment="" />
+    <list default="true" id="3a17782b-3244-430c-b830-16fb764066fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/BoundedWaitList.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/BoundedWaitList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/IWaitList.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/IWaitList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/UnfairWaitList.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/UnfairWaitList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/WaitList.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/WaitList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ru/mirea/ikbo1218/grachev/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/ikbo1218/grachev/BoundedWaitList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/ikbo1218/grachev/BoundedWaitList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/ikbo1218/grachev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/ikbo1218/grachev/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +46,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SjjawWXQwdpUlUFZCtLNMdWNhI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -61,5 +99,16 @@
       <updated>1572083965385</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

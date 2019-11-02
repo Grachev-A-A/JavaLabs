@@ -1,12 +1,14 @@
 package ru.mirea.ikbo1218.grachev;
 
+import java.util.Collection;
+
 /**
  * Class of queue with constant max {@link BoundedWaitList#capacity}.
  * @param <E> Type of stored data.
  * @see IWaitList
  * @see WaitList
  * @author aleksandrgracev
- * @version 1.1
+ * @version 1.2
  */
 public class BoundedWaitList <E> extends WaitList<E> {
 
@@ -25,6 +27,18 @@ public class BoundedWaitList <E> extends WaitList<E> {
         super();
         if(capacity <= 0) throw new IllegalArgumentException("Максимальный размер должен быть больше 0! Получено значение: " + capacity);
         this.capacity = capacity;
+    }
+
+
+    /**
+     * Overrides constructor of copies from superclass to set max capacity equal to collection's size.
+     * @param col Collection to copy from
+     * @see WaitList#WaitList(Collection)
+     * @since 1.2
+     */
+    public BoundedWaitList(Collection<E> col){
+        super(col);
+        this.capacity = col.size();
     }
 
     /**
