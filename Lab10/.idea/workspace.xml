@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a17782b-3244-430c-b830-16fb764066fe" name="Default Changelist" comment="" />
+    <list default="true" id="21d73810-af35-41ec-9ce9-90a5a78dab92" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,20 +11,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1SjjawWXQwdpUlUFZCtLNMdWNhI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="ProjectId" id="1TegTY1xc5Eg5FmM4ORwx28OBMS" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -38,9 +29,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.Main" />
-      <module name="Pract8" />
+    <configuration name="Lab10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.Lab10" />
+      <module name="Lab10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.mirea.ikbo1218.grachev.*" />
@@ -53,7 +44,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lab10" />
       </list>
     </recent_temporary>
   </component>
@@ -62,25 +53,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a17782b-3244-430c-b830-16fb764066fe" name="Default Changelist" comment="" />
-      <created>1572083965385</created>
+      <changelist id="21d73810-af35-41ec-9ce9-90a5a78dab92" name="Default Changelist" comment="" />
+      <created>1573825983689</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572083965385</updated>
+      <updated>1573825983689</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
