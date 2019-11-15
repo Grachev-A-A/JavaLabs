@@ -1,4 +1,4 @@
-package ru.mirea.ikbo1218.grachev.ex4;
+package ru.mirea.ikbo1218.grachev.ex5;
 
 import ru.mirea.ikbo1218.grachev.ex2.Game;
 import javax.swing.*;
