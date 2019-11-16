@@ -6,6 +6,8 @@ import java.io.File;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
 
 public class Lab10 {
     // Ex 1:
@@ -13,8 +15,7 @@ public class Lab10 {
         if(arr == null)
             throw new IllegalArgumentException("Null array!");
         ArrayList<E> l = new ArrayList<>(arr.length);
-        for (E element :
-                arr) {
+        for (E element : arr) {
             l.add(element);
         }
         return l;
@@ -46,6 +47,30 @@ public class Lab10 {
         return lf;
     }
 
+
+
+    //ex5
+    public static <E> HashSet<E> arrayToHashSet(E[] arr){
+        if(arr == null)
+            throw new IllegalArgumentException("Null array!");
+        HashSet<E> s = new HashSet<>(arr.length);
+        for (E element : arr) {
+            s.add(element);
+        }
+        return s;
+    }
+
+    public static <K, V> HashMap<K, V> arrayToHashMap(K[] arr, V[] vArr){
+        if(arr == null || vArr == null)
+            throw new IllegalArgumentException("Null array!");
+        if(vArr.length < arr.length)
+            throw new IllegalArgumentException("Массив значений меньше массива ключей!");
+        HashMap<K, V> m = new HashMap<>();
+        for (int i = 0; i < arr.length; i++){
+            m.put(arr[i], vArr[i]);
+        }
+        return m;
+    }
 
     // MAIN
     public static void main(String[] args) {
@@ -94,5 +119,13 @@ public class Lab10 {
         ArrayList<File> lf = readDir(Paths.get("").toAbsolutePath().toString());
         System.out.println();
         System.out.println(lf);
+        System.out.println();
+
+        //tests for ex 5
+        HashSet<String> hs = arrayToHashSet(a);
+        System.out.println(hs);
+
+        HashMap<String, String> m = arrayToHashMap(a, new String[]{"H", "w", "!"});
+        System.out.println(m);
     }
 }
