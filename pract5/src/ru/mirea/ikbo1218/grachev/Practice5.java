@@ -104,7 +104,7 @@ public class Practice5 {
 
 
     public static void main(String[] args) {
-        //ex6
+//ex6
         System.out.println("Primes?");
         isPrime(2);
         isPrime(18756);

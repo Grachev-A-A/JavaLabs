@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf6bdf8c-e147-4c83-8d2b-b93cf4537fe3" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="cf6bdf8c-e147-4c83-8d2b-b93cf4537fe3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab16/Lab16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/src/ru/mirea/ikbo1218/grachev/exOthers/AllTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/src/ru/mirea/ikbo1218/grachev/exOthers/AllTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pract8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pract8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract5/src/ru/mirea/ikbo1218/grachev/Practice5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pract5/src/ru/mirea/ikbo1218/grachev/Practice5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract7/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,20 +30,21 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1UKM696qLZGDit0J2QcrG1N7tsv" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="RunManager" selected="Application.InnChecker">
+  <component name="ProjectId" id="1UKM696qLZGDit0J2QcrG1N7tsv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Starter">
     <configuration name="InnChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.ikbo1218.grachev.ex1.InnChecker" />
       <module name="Pract9" />
@@ -57,10 +73,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InnChecker" />
         <item itemvalue="Application.Starter" />
+        <item itemvalue="Application.InnChecker" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -74,5 +102,23 @@
       <updated>1575100655928</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1577012580231">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577012580231" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1577012580230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577012580230" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1577012580230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577012580230" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1577012580230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577012580230" />
   </component>
 </project>

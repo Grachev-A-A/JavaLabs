@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a17782b-3244-430c-b830-16fb764066fe" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3a17782b-3244-430c-b830-16fb764066fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab16/Lab16.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab12/src/ru/mirea/ikbo1218/grachev/exOthers/AllTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab12/src/ru/mirea/ikbo1218/grachev/exOthers/AllTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract5/src/ru/mirea/ikbo1218/grachev/Practice5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pract5/src/ru/mirea/ikbo1218/grachev/Practice5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pract7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pract7/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,21 +34,14 @@
   </component>
   <component name="ProjectId" id="1SjjawWXQwdpUlUFZCtLNMdWNhI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -56,6 +62,18 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -82,5 +100,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1577011838159">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577011838159" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1577011838159">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577011838159" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1577011838158">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577011838158" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1577011838159">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577011838159" />
   </component>
 </project>
